@@ -1,0 +1,12 @@
+Setup a custom react hook with 
+A. Increment, Decrement, reset, setValue functons with a valid UI
+Implement a combination of state with useReducer that implements a counter with four evident
+ features in the custom hook-increment,decrement, reset,setvalue.
+ Implement a page for the custom hook,useReducer,404, 
+ and a page to tesst error boundary and good Seo 
+
+ // const Users = () => {
+//   return (
+//     <div>Users</div>
+//   )
+// }

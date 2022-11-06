@@ -1,0 +1,51 @@
+.appbar-container{
+    max-width: 56rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 14px;
+   
+  }
+  
+  .header{
+    background-color: #FEAB04;
+    padding-bottom: 20px;
+    border-bottom-width: 20px;
+    border-bottom: grey;
+    border-bottom-style: none;
+  }
+  .nav-links{
+    display: flex;
+    justify-content: space-evenly;
+  
+  
+  }
+  
+  .nav-links .link{
+    margin-left: 10px;
+
+    
+  }
+  
+  .font-30{
+    font-size: 2rem;
+  }
+  .home{
+    text-align: center;
+    font: bold;
+    font-style: normal;
+  }
+
+.btn{
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  border-style: none;
+  align-items: center;
+  background-color: #FEAB04;
+}
+.btn:hover{
+  cursor:grab;
+ 
+}
